@@ -1,0 +1,10 @@
+# Redux-Crud-API
+Redux Crud Api With Typescript
+Features :
+  - PWA
+  - CRUD API USING REDUX
+  - FORM VALIDATION
+  - AXIOS FOR CONSUME API
+  - REACT ROUTER-DOM
+  - REACT REVEAL FOR ANIMATION
+  - etc
